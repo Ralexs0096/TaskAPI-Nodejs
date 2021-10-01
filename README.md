@@ -19,3 +19,5 @@ Una vez el servidor este funcionando puedes dirigirte a la direccion localhost:[
 /docs
 
 podras encontrar los endpoints que estan disponibles en esta API. 
+
+NOTA: En la carpeta scripts, encontraras las sentencias SQL para crear la base de datos.
