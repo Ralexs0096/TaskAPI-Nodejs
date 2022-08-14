@@ -1,23 +1,22 @@
 ## Task api
 
-primero ejecuta:
+Step one:
 
 ```js
 npm install
 ```
-esto instalara los paquetes necesarios.
+this will allow us to install all the necessary packages
 
-luego debes crear un archivo .env en la raiz del proyecto y brindarle los parametros requeridos, puedes usar el archivo .config.env para guiarte.
+then, we have to create a new file .env at / of the project and provide the required params. You can use the file .config.env as an example.
 
-luego:
+then:
 
 ```js
 npm run dev
 ```
 
-Una vez el servidor este funcionando puedes dirigirte a la direccion localhost:[El puerto que hayas definido] 
-/docs
+once the server is running you can open a browser and type localhost:[El puerto que hayas definido]/docs
 
-podras encontrar los endpoints que estan disponibles en esta API. 
+you will see all the endpoints allowed in this API
 
-NOTA: En la carpeta scripts, encontraras las sentencias SQL para crear la base de datos.
+NOTE: In the scripts folder, you will find the SQL statements to create the database.
