@@ -7,7 +7,7 @@ npm install
 ```
 this will allow us to install all the necessary packages
 
-then, we have to create a new file .env at / of the project and provide the required params. You can use the file .config.env as an example.
+then, we have to create a new file .env at `/` `root folder` of the project and provide the required params. You can use the file .config.env as an example.
 
 then:
 
